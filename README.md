@@ -7,7 +7,9 @@
 - 💬 Ask me about Python , Dockers , and like anythkng under the sun tbh I know bit here and there so might help somehow
 - 📫 How to reach me: > may mail should do the trick "b.s.dnivog@gmail.com"
 - 😄 Pronouns: He / Monke
-- ⚡ Fun fact: The NerveGear came out on May 22 in SAO ... so ya know what that means kekw
+- ⚡ Fun fact: The NerveGear came out on May 2022 in SAO ... so ya know what that means kekw
+
 <br>
+
 <h3>Github Stats</h3>
   <img src=https://github-readme-stats.vercel.app/api?username=Govind-S-B&count_private=true&include_all_commits=true&show_icons=true&theme=dark alt=github-stats>
