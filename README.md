@@ -2,14 +2,11 @@
 
 ![Wave_by_monnick-d7i06j2](https://user-images.githubusercontent.com/62943847/156438066-98cb5fb8-8f79-4e50-b039-f662c52197c0.gif)
 
-- 🔭 I’m currently working on Flutter and whatever that seems interesting to me at the moment lol
-- 🌱 I’m currently learning and trying to get good on DSA while work on new projects
-- 👯 I’m looking to collaborate on any kind of project, just hit me up if u are interested in having me on board
-- 🤔 I’m looking for help with just some of my weird ideas , rn having a hard time with github actions
-- 💬 Ask me about anything , lets learn some stuff yay (Tho python, flutter and devops stuff are some things im focusing on rn)
-- 📫 How to reach me: My mail should do the trick "b.s.dnivog@gmail.com"
-- 😄 Pronouns: He / Monke
-- ⚡ Fun fact: The NerveGear came out on May 2022 in SAO ... so ya know what that means kekw
+Hi, I am Govind (aka. Vio). I love to explore and work on new stuff a lot (Yes, I do have a bit too many sideprojects as a result but ... hey its all good practice in the end). I am rn working on DSA and Flutter, planning on going deep into ML and stuff
+
+If you would like to help me with stuff or want me to help you out with something (\*cough collaboration \*cough), feel free to reach me on my [mail](b.s.dnivog@gmail.com) I'll get to you when Im free :D
+
+Fun Fact : I am a dood .. say whaaaa
 
 <br>
 
